@@ -1,2 +1,16 @@
 # airbnb_analysis
-Analysis of 6 Airbnb datasets
+
+
+# Imports
+
+
+# Motivation
+
+
+# Datasets
+
+
+# Findings
+
+
+# Acknowledgements
