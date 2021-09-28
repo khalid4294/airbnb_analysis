@@ -1,16 +1,18 @@
-# airbnb_analysis
+
+## Imports
 
 
-# Imports
+---
+## Motivation
 
 
-# Motivation
+---
+## Datasets
 
 
-# Datasets
+---
+## Findings
 
 
-# Findings
-
-
-# Acknowledgements
+---
+## Acknowledgements
