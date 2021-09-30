@@ -22,7 +22,11 @@ in this analysis, we're using the following imports:
 
 ---
 ## Motivation
+This is my first data science project!
 
+I chose to work on datasets from Airbnb because I was interested to see a breakdown of listiings, their attributes, what effects their prices, and how are diistributed over the cities analyzed in this project.
+
+I also admire how Airbnb published such rich datasets to the public. This is helpful for the data scinece comminty to sharpen their skills with real world data. 
 
 ---
 ## Datasets
@@ -42,7 +46,7 @@ Contains a row for each listing along with all the listing details.
 
 ---
 ## Findings
-
+Check this [article](https://medium.com/@Khalid_OLN/dont-use-nice-images-for-your-listing-76e7c175e6de) for a detailed look of the findings of this analysis.
 
 ---
 ## Acknowledgements
