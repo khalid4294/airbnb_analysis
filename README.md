@@ -46,7 +46,7 @@ Contains a row for each listing along with all the listing details.
 
 ---
 ## Findings
-Check this article for a detailed look of the findings of this analysis.
+Check this [article](https://medium.com/@Khalid_OLN/dont-use-nice-images-for-your-listing-76e7c175e6de) for a detailed look of the findings of this analysis.
 
 ---
 ## Acknowledgements
